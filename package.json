@@ -1,6 +1,6 @@
 {
   "name": "pdfjs-dist-show-signature",
-  "version": "2.2.228",
+  "version": "2.2.229",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
   "keywords": [
